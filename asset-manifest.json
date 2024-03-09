@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94c7056e.css",
+    "main.js": "/static/js/main.cec78db7.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/treasure_hunt.png": "/static/media/treasure_hunt.6620d8091ed7bb5040fd.png",
+    "static/media/profile.png": "/static/media/profile.291af7e45c3985a2857d.png",
+    "static/media/behance.png": "/static/media/behance.d44611bd967fe57a7916.png",
+    "static/media/navbar_courses.png": "/static/media/navbar_courses.c8b50b02794e186f9eff.png",
+    "static/media/navbar_projects.png": "/static/media/navbar_projects.e6b9533165ceb8ea0ac8.png",
+    "static/media/navbar_home.png": "/static/media/navbar_home.3744262366eb543fe721.png",
+    "static/media/js.webp": "/static/media/js.6d9d56b532d6f31ed4d6.webp",
+    "static/media/navbar_blogs.png": "/static/media/navbar_blogs.fda042a683258f57bd83.png",
+    "static/media/whatsapp.webp": "/static/media/whatsapp.b0d24049660daa5bcca6.webp",
+    "static/media/gmail.webp": "/static/media/gmail.ad45c07a9fb668451794.webp",
+    "static/media/linkedin.webp": "/static/media/linkedin.d48637d8a4c5d0908284.webp",
+    "index.html": "/index.html",
+    "static/media/rit.svg": "/static/media/rit.ee7809ddc05f576a72aa.svg",
+    "static/media/lft.svg": "/static/media/lft.60bd541e1c636344a7d3.svg",
+    "main.94c7056e.css.map": "/static/css/main.94c7056e.css.map",
+    "main.cec78db7.js.map": "/static/js/main.cec78db7.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94c7056e.css",
+    "static/js/main.cec78db7.js"
+  ]
+}
