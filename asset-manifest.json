@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.b0d17bc5.css",
-    "main.js": "/static/js/main.5526b313.js",
+    "main.js": "/static/js/main.92b0cb17.js",
     "static/media/hero.png": "/static/media/hero.a039a279648ac5f37aac.png",
     "static/media/treasure_hunt.png": "/static/media/treasure_hunt.6620d8091ed7bb5040fd.png",
+    "static/media/hope.png": "/static/media/hope.ecba9d65c765cc6f1531.png",
     "static/media/bkg.jpg": "/static/media/bkg.0017d8120da048183211.jpg",
     "static/media/logo.png": "/static/media/logo.d21e98031e29fa1dbc22.png",
     "index.html": "/index.html",
     "main.b0d17bc5.css.map": "/static/css/main.b0d17bc5.css.map",
-    "main.5526b313.js.map": "/static/js/main.5526b313.js.map"
+    "main.92b0cb17.js.map": "/static/js/main.92b0cb17.js.map"
   },
   "entrypoints": [
     "static/css/main.b0d17bc5.css",
-    "static/js/main.5526b313.js"
+    "static/js/main.92b0cb17.js"
   ]
 }
