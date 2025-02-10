@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.608463ba.css",
-    "main.js": "/static/js/main.27e17cb1.js",
+    "main.js": "/static/js/main.3cfd24be.js",
     "static/media/hero.png": "/static/media/hero.a039a279648ac5f37aac.png",
     "static/media/treasure_hunt.png": "/static/media/treasure_hunt.6620d8091ed7bb5040fd.png",
     "static/media/hope.png": "/static/media/hope.ecba9d65c765cc6f1531.png",
@@ -9,10 +9,10 @@
     "static/media/gamification.webp": "/static/media/gamification.1986d3bf25774900ddd1.webp",
     "index.html": "/index.html",
     "main.608463ba.css.map": "/static/css/main.608463ba.css.map",
-    "main.27e17cb1.js.map": "/static/js/main.27e17cb1.js.map"
+    "main.3cfd24be.js.map": "/static/js/main.3cfd24be.js.map"
   },
   "entrypoints": [
     "static/css/main.608463ba.css",
-    "static/js/main.27e17cb1.js"
+    "static/js/main.3cfd24be.js"
   ]
 }
