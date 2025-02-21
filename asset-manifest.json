@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.608463ba.css",
-    "main.js": "/static/js/main.3cfd24be.js",
+    "main.css": "/static/css/main.99fd5f7b.css",
+    "main.js": "/static/js/main.3eb67a42.js",
     "static/media/hero.png": "/static/media/hero.a039a279648ac5f37aac.png",
     "static/media/treasure_hunt.png": "/static/media/treasure_hunt.6620d8091ed7bb5040fd.png",
     "static/media/hope.png": "/static/media/hope.ecba9d65c765cc6f1531.png",
+    "static/media/5.png": "/static/media/5.62ce5f612f7ae525b2fc.png",
+    "static/media/4.png": "/static/media/4.bf46f975179c4a267251.png",
     "static/media/logo.png": "/static/media/logo.d21e98031e29fa1dbc22.png",
+    "static/media/3.png": "/static/media/3.57b19280dbbdae6f61e2.png",
+    "static/media/1.png": "/static/media/1.a13ce291160cc2118c3a.png",
+    "static/media/2.png": "/static/media/2.9010c3f05f8c1f6ea8f0.png",
     "static/media/gamification.webp": "/static/media/gamification.1986d3bf25774900ddd1.webp",
+    "static/media/stopwatch.png": "/static/media/stopwatch.d24380fa5e17fc4f8015.png",
     "index.html": "/index.html",
-    "main.608463ba.css.map": "/static/css/main.608463ba.css.map",
-    "main.3cfd24be.js.map": "/static/js/main.3cfd24be.js.map"
+    "main.99fd5f7b.css.map": "/static/css/main.99fd5f7b.css.map",
+    "main.3eb67a42.js.map": "/static/js/main.3eb67a42.js.map"
   },
   "entrypoints": [
-    "static/css/main.608463ba.css",
-    "static/js/main.3cfd24be.js"
+    "static/css/main.99fd5f7b.css",
+    "static/js/main.3eb67a42.js"
   ]
 }
